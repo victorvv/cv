@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 title: Victor Voronkevich
 description: CV
 show_downloads: false
-github.is_project_page: false
+is_project_page: false
