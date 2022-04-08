@@ -1,7 +1,6 @@
 theme: jekyll-theme-architect
-title: . 
-# Victor Voronkevich
-description: Victor Voronkevich
+title: Victor Voronkevich
+# description: Victor Voronkevich
 show_downloads: false
 github:
   is_project_page: false
